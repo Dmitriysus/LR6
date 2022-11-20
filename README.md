@@ -1,2 +1,1 @@
-# LR6
-Лабораторная работа №6
+https://github.com/Dmitriysus/LR6/blob/otchet/Photo/image.png
